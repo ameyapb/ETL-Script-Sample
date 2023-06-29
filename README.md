@@ -9,7 +9,4 @@ ETL is a common process in data integration and data warehousing. It involves ex
 
 The `etl_script.py` file in this repository is a basic implementation of an ETL job using Python. It demonstrates how to extract data from a CSV file, apply transformations, and load the transformed data into another CSV file.
 
-## Usage
-
-1. Clone the repository to your local machine:
 
